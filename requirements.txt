@@ -1,0 +1,8 @@
+fastapi
+streamlit
+uvicorn
+pandas
+matplotlib
+requests
+beautifulsoup4
+PyJWT
