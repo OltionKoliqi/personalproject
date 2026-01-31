@@ -1,0 +1,4 @@
+DATABASE_NAME = "students.db"
+SECRET_KEY = "your_super_secret_key_123"
+ALGORITHM = "HS256"
+ACCESS_TOKEN_EXPIRE_MINUTES = 120
